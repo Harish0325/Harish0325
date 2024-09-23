@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harish0325
+- 👋 Hi, I’m Harish
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -63,11 +63,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=J&show_icons=trjaiganesh2108e&locale=en&layout=compact" alt="Jaiganseh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harish0325&show_icons=trHarish0325e&locale=en&layout=compact" alt="Harish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiganesh2108&show_icons=true&locale=en" alt="Jaiganesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harish0325&show_icons=true&locale=en" alt="Harish" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiganesh2108&" alt="Jaiganseh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harish0325&" alt="Harish" /></p>
 <!---
 Harish0325/Harish0325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
